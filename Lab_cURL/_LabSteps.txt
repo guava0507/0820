@@ -128,6 +128,7 @@ echo htmlspecialchars($output);
 2-4 上述程式如何製作出相對路徑網址?
 
 
+
 2-5 preg_match() 函式的功能是什麼?
 
 
